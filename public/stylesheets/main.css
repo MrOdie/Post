@@ -1,0 +1,24 @@
+.delete-form {
+    display: inline;
+}
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail {
+    padding: 0;
+}
+
+.new-form {
+    max-width: 30%;
+    margin: 25px auto;
+}
+
+.post-form {
+    width: 100%;
+    margin: 25px auto;
+}
+
+.title-text {
+    margin-top: 0;
+}
